@@ -1,15 +1,7 @@
 ﻿<!doctype html>
 <html>
 <head>
-<!-- 
 
-
-/** 
-Script CUrl By HocTrick.NET
- **/
-
-
--->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <script src="//code.jquery.com/jquery.min.js"></script>
