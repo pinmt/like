@@ -1,10 +1,6 @@
 <?php
 
 
-/** 
-Script CUrl By HocTrick.NET
- **/
-
 include'config.php';
 
 $token = file_get_contents('token/token.txt');
